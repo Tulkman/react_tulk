@@ -1,0 +1,17 @@
+.launch {
+    background-color: plum;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: 6px solid purple;
+    margin: 15px;
+    }
+
+nav {
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+   }
+img{
+    max-height: 200px;
+}

@@ -1,18 +1,12 @@
 import './App.css';
-import Users from "./Components/Users/Users";
-import Posts from "./Components/Posts/Posts";
-import Comments from "./Components/Comments/Comments";
+import Launches from "./Components/Launches/Launches";
 
 function App() {
-  return (
-      <>
+    return (
         <div className="App">
-          <Users/>
-          <Posts/>
+            <Launches/>
         </div>
-        <Comments/>
-      </>
-  );
+    );
 }
 
 export default App;
