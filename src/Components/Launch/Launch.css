@@ -1,5 +1,5 @@
 .launch {
-    background-color: plum;
+    background-color: #d777d7;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -14,4 +14,4 @@ nav {
    }
 img{
     max-height: 200px;
-}
+    }
