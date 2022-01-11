@@ -1,0 +1,6 @@
+.comments {
+    background-color: yellow;
+    height: 450px;
+    padding-left: 30px;
+    overflow: scroll;
+}
